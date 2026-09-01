@@ -1,8 +1,4 @@
-defaultTheme = "auto"
 showReadingTime = true
 [homeInfoParams]
 Title = "Notebook"
 Content = "キム・ギドク監督作品の記録"
-
-[params]
-mainSections = ["posts"]
