@@ -23,6 +23,7 @@
     [social.params]
         icon = "brand-twitter"
 
+[[menu.main]]
 name = "Posts"
 url = "/post/"
 weight = 10
