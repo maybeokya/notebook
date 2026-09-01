@@ -1,0 +1,9 @@
+[en]
+  languageCode = "en-US"
+  languageName = "English"
+  weight = 1
+  title = "Example Site"
+  enableEmoji = true
+
+  [en.params]
+    description = "Sample article description"
