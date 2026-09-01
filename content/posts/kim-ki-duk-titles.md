@@ -1,6 +1,13 @@
 ---
-title: "キムギドク監督作品の記録"
+title: "キム・ギドク監督作品"
+description: "キム・ギドク監督作品の記録"
 date: 2026-09-02
+slug: kim-ki-duk-titles
+image: ""
+categories:
+- 映画
+tags:
+- キム・ギドク
 draft: false
 ---
 
