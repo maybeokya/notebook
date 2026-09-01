@@ -1,3 +1,3 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
+module github.com/maybeokya/notebook
 
-go 1.17
+go 1.20
