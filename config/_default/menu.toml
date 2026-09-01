@@ -26,3 +26,8 @@
 name = "Posts"
 url = "/post/"
 weight = 10
+
+[[languages.en.menu.main]]
+name = "Posts"
+url = "/post/"
+weight = 10
