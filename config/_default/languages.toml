@@ -7,3 +7,6 @@
 
   [en.params]
     description = "Sample article description"
+    author = "John Doe"
+    dateFormat = "2006-01-02"
+    highlightCode = true
