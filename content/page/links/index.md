@@ -1,33 +1,39 @@
 ---
-title: Links
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
-
-comments: false
+title: "キム・ギドク監督作品"
+description: "キム・ギドク監督作品の記録"
+date: 2026-09-02
+slug: kim-ki-duk-titles
+image: ""
+categories:
+- 映画
+tags:
+- キム・ギドク
+draft: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+1. 鰐 〜ワニ〜 (악어, 1996)
+2. ワイルド・アニマル (야생동물 보호구역, 1997)
+3. 悪い女〜青い門〜 (파란 대문, 1998)
+4. 魚と寝る女 (섬, 2000)
+5. リアル・フィクション (실제 상황, 2000)
+6. 受取人不明 (수취인불명, 2001)
+7. 悪い男 (나쁜 남자, 2001)
+8. コースト・ガード (해안선, 2002)
+9. 春夏秋冬そして春 (봄 여름 가을 겨울 그리고 봄, 2003)
+10. サマリア (사마리아, 2004)
+11. うつせみ (빈집, 2004)
+12. 弓 (활, 2005)
+13. 絶対の愛 (시간, 2006)
+14. ブレス (숨, 2007)
+15. 悲夢 (비몽, 2008)
+16. アリラン (아리랑, 2011)
+17. アーメン (아멘, 2011)
+18. 嘆きのピエタ (피에타, 2012)
+19. メビウス (뫼비우스, 2013)
+20. お母さん (2013年)
+21. 殺されたミンジウ (일대일, 2014)
+22. STOP (스톱, 2015)
+23. The NET 網に囚われた男 (그물, 2016)
+24. 人間の時間 (2018)
+25. Dissolve (딘, 2019)
+26. Call of God (신의 부름,2022 ※キム・ギドクの死後公開)
