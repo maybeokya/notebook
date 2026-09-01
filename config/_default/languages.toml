@@ -4,6 +4,7 @@
   weight = 1
   title = "Example Site"
   enableEmoji = true
+  locale = "en"
 
   [en.params]
     description = "Sample article description"
