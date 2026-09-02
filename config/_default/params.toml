@@ -5,6 +5,8 @@ disableSpecial1stPost = true
 
 hideSummary = true
 
+hideFooter = true
+
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
