@@ -1,9 +1,8 @@
 ---
 title: "キム・ギドク監督作品"
-url: "/kim-ki-duk/"
+slug: "kim-ki-duk"
 description: "キム・ギドク監督作品の記録"
 date: 2026-09-02
-slug: kim-ki-duk-titles
 image: ""
 categories:
 - 映画
@@ -31,7 +30,7 @@ draft: false
 17. アーメン (아멘, 2011)
 18. 嘆きのピエタ (피에타, 2012)
 19. メビウス (뫼비우스, 2013)
-20. お母さん (2013年)
+20. お母さん (나의 어머니》 / Venice 70: Future Reloaded オムニバス短編担当作,2013)
 21. 殺されたミンジウ (일대일, 2014)
 22. STOP (스톱, 2015)
 23. The NET 網に囚われた男 (그물, 2016)
