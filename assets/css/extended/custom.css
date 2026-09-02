@@ -1,22 +1,23 @@
 ﻿/* サイト名（雑客堂）の調整 */
 .logo a {
-    font-size: 28px;
-    font-weight: 700;
-    letter-spacing: 0.08em;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
 }
 
-/* サイト全体のフォント（本文・見出しすべて） */
+/* サイト全体のフォント（本文・見出し・ボタン等） */
 body, 
 button, 
 input, 
 textarea, 
 .post-title, 
 .entry-title {
-    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic Medium", "YuGothic", "Noto Sans JP", sans-serif !important;
 }
 
-/* 本文の文字間隔を行間を少し広げて読みやすく */
+/* 本文の文字の並びと行間の微調整 */
 .post-content {
-    letter-spacing: 0.03em;
-    line-height: 1.85;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 1.8;
 }
