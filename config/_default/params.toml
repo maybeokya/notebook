@@ -1,4 +1,5 @@
 showReadingTime = true
+mainSections = ["posts"]
 [homeInfoParams]
 Title = "Notebook"
 Content = "キム・ギドク監督作品の記録"
