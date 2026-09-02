@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseURL = "https://notebook-3f7.pages.dev/"
+baseURL = "https://zakkyaku-dou.pages.dev/"
 locale  = "en-us"
 title   = "雑記釜"
 
