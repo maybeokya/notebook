@@ -4,7 +4,7 @@ slug: "kim-ki-duk"
 date: 2026-09-01
 image: ""
 categories:
-- 映画
+- キム・ギドク
 draft: false
 ---
 
