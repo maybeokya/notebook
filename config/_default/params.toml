@@ -1,4 +1,7 @@
 showReadingTime = true
+
+ShowBreadCrumbs = true
+
 mainSections = ["posts"]
 
 disableSpecial1stPost = true
