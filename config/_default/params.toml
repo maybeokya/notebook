@@ -7,6 +7,8 @@ hideSummary = true
 
 hideFooter = true
 
+disableHugoGeneratorInject = true
+
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
