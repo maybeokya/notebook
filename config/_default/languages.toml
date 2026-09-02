@@ -1,13 +1,12 @@
 [en]
-  languageCode = "en-US"
-  languageName = "English"
-  weight = 1
-  title = "Example Site"
-  enableEmoji = true
-  locale = "en"
+label = "English"
+weight = 1
+title = "Example Site"
+enableEmoji = true
+locale = "en"
 
-  [en.params]
-    description = "Sample article description"
-    author = "John Doe"
-    dateFormat = "2006-01-02"
-    highlightCode = true
+[en.params]
+description = "Sample article description"
+author = "John Doe"
+dateFormat = "2006-01-02"
+highlightCode = true
