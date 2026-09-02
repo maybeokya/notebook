@@ -2,7 +2,7 @@
 title: "キム・ギドク監督作品"
 slug: "kim-ki-duk"
 description: "キム・ギドク監督作品の記録"
-date: 2026-09-02
+date: 2026-09-01
 image: ""
 categories:
 - 映画
