@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://dadaead3.notebook-3f7.pages.dev/"
+baseURL = "https://notebook-3f7.pages.dev/"
 locale  = "en-us"
 title   = "雑記釜"
 
