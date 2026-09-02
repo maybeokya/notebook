@@ -1,0 +1,22 @@
+﻿/* サイト名（雑客堂）の調整 */
+.logo a {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+}
+
+/* サイト全体のフォント（本文・見出しすべて） */
+body, 
+button, 
+input, 
+textarea, 
+.post-title, 
+.entry-title {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif !important;
+}
+
+/* 本文の文字間隔を行間を少し広げて読みやすく */
+.post-content {
+    letter-spacing: 0.03em;
+    line-height: 1.85;
+}
