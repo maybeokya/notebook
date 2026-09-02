@@ -1,0 +1,9 @@
+﻿<script>
+  if (localStorage.getItem('exclude_admin') !== 'true') {
+    var script = document.createElement('script');
+    script.type = 'module';
+    script.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+    script.setAttribute('data-cf-beacon', '{"token": "ca540effd1954569b80d4b63362f5422"}');
+    document.body.appendChild(script);
+  }
+</script>
