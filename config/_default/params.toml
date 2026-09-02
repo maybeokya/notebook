@@ -1,6 +1,8 @@
 showReadingTime = true
 mainSections = ["posts"]
 
+disableSpecial1stPost = true
+
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
