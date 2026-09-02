@@ -1,0 +1,5 @@
+[[main]]
+identifier = "categories"
+name = "Categories"   # 日本語で「カテゴリー」や「目録」としてもOK
+url = "/posts/"      # フォルダ階層の一覧（Posts）へ飛ばす場合
+weight = 20
