@@ -1,5 +1,6 @@
 ---
 title: "キム・ギドク監督作品"
+url: "/kim-ki-duk/"
 description: "キム・ギドク監督作品の記録"
 date: 2026-09-02
 slug: kim-ki-duk-titles
