@@ -3,6 +3,8 @@ mainSections = ["posts"]
 
 disableSpecial1stPost = true
 
+hideSummary = true
+
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
