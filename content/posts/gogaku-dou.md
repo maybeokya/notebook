@@ -1,6 +1,6 @@
 ---
-title: ""語学堂の思い出"
-slug: "kim-ki-duk"
+title: "語学堂の思い出"
+slug: "gogaku-dou"
 date: 2026-09-02
 image: ""
 categories:
