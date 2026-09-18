@@ -19,6 +19,3 @@ disqusShortname = "hugo-theme-stack"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
