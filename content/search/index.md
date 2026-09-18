@@ -1,3 +1,6 @@
----
-title: "雑記"
+﻿---
+title: "Search"
+layout: "search"
+summary: "search"
+placeholder: "キーワードを入力..."
 ---
