@@ -2,5 +2,5 @@
 title: "Search"
 layout: "search"
 summary: "search"
-placeholder: "キーワードを入力..."
+placeholder: "記事を検索..."
 ---
