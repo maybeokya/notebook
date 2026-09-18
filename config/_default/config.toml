@@ -2,6 +2,3 @@
 languageCode = "ja-jp"
 title = "雑客堂"
 theme = "PaperMod"
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
